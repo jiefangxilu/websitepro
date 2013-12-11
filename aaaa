@@ -1,0 +1,2 @@
+ INT main()
+ {printf("ddd");}
